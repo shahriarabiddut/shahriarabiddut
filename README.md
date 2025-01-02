@@ -19,15 +19,15 @@ Here are some of the key projects I’ve worked on:
   
 - **[Query And Recommendation MERN](https://github.com/shahriarabiddut/Query-And-Recommendation-MERN)**  
 The Product Recommendation Platform is an interactive web application designed to assist users in discovering the best products based on community-driven queries and recommendations. This platform fosters collaborative decision-making by allowing users to post queries, view alternative suggestions, and contribute recommendations or comments.
-  `Live Link [https://progheroa11.web.app](https://progheroa11.web.app)`
+- Live Link [https://progheroa11.web.app](https://progheroa11.web.app)
 
 - **[Equipment Store (Product Listing) MERN](https://github.com/shahriarabiddut/demoShop-React-and-NodeJs)**  
   Our goal is to create a seamless and responsive product listing website where customers can easily browse, list, and review a wide range of sports accessories. From gear to apparel, we aim to offer products for various sports disciplines, catering to athletes of all levels.
-  `Live Link [https://progheroa10.web.app]([https://progheroa9.surge.sh/](https://progheroa10.web.app)`
+- Live Link [https://progheroa10.web.app]([https://progheroa9.surge.sh/](https://progheroa10.web.app)
   
 - **[NewsPaper Design](https://github.com/shahriarabiddut/React-Dragon-News)**  
   Created using React and fake data.
-  `Live Link [https://progherodn.surge.sh](https://progherodn.surge.sh)`
+- Live Link [https://progherodn.surge.sh](https://progherodn.surge.sh)
 
 ### LARAVEL Projects
 
