@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 👋 I'm Shahriar, a passionate Junior Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
 ## 🔧 Skills and Technologies
-- **Languages:** JavaScript, PHP, HTML5, CSS3
+- **Languages:** JavaScript, PHP,Python, HTML5, CSS3
 - **Frontend:** ReactJS, Tailwind CSS, Bootstrap, daisyUI
 - **Backend:** NodeJS, Express, Laravel
 - **Database:** MongoDB, MySQL
@@ -15,19 +15,19 @@ Here are some of the key projects I’ve worked on:
 ### ReactJs And MERN Projects
 - **[React Consultancy](https://github.com/shahriarabiddut/React-Consultancy)**  
   Career Counseling Website designed to guide users on their career paths. The goal is to create a seamless, intuitive platform that offers personalized career advice, guidance, and resources to users seeking to make informed decisions about their professional futures.
-  `Live Link [https://progheroa9.surge.sh](https://progheroa9.surge.sh)`
+- Live Link : [https://progheroa9.surge.sh](https://progheroa9.surge.sh)
   
 - **[Query And Recommendation MERN](https://github.com/shahriarabiddut/Query-And-Recommendation-MERN)**  
 The Product Recommendation Platform is an interactive web application designed to assist users in discovering the best products based on community-driven queries and recommendations. This platform fosters collaborative decision-making by allowing users to post queries, view alternative suggestions, and contribute recommendations or comments.
-- Live Link [https://progheroa11.web.app](https://progheroa11.web.app)
+- Live Link : [https://progheroa11.web.app](https://progheroa11.web.app)
 
 - **[Equipment Store (Product Listing) MERN](https://github.com/shahriarabiddut/demoShop-React-and-NodeJs)**  
   Our goal is to create a seamless and responsive product listing website where customers can easily browse, list, and review a wide range of sports accessories. From gear to apparel, we aim to offer products for various sports disciplines, catering to athletes of all levels.
-- Live Link [https://progheroa10.web.app]([https://progheroa9.surge.sh/](https://progheroa10.web.app)
+- Live Link : [https://progheroa10.web.app]([https://progheroa9.surge.sh/](https://progheroa10.web.app)
   
 - **[NewsPaper Design](https://github.com/shahriarabiddut/React-Dragon-News)**  
   Created using React and fake data.
-- Live Link [https://progherodn.surge.sh](https://progherodn.surge.sh)
+- Live Link : [https://progherodn.surge.sh](https://progherodn.surge.sh)
 
 ### LARAVEL Projects
 
@@ -77,7 +77,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
