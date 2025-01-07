@@ -5,7 +5,7 @@
 # Shahriar Ahmed
 ### Full Stack Web Developer
 ## 📫 About Me
-Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Flag_of_Bangladesh.svg" alt="Bangladesh Flag" height="40" /> , a passionate Full Stack Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
+Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="13"/> , a passionate Full Stack Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
 - 🔭 I’m currently working on Restaurant Management Website (MERN)!
 - 🌱 I’m currently learning NodeJs and REACT!
