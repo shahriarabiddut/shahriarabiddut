@@ -1,16 +1,39 @@
 # Shahriar Ahmed
 
-Welcome to my GitHub profile! 👋 I'm Shahriar, a passionate Junior Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
+Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed, a passionate Junior Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
-- 🔭 I’m currently working on Self Improvement!
-- 🌱 I’m currently learning How to Survive!
-- 🤔 I’m looking for Job
+- 🔭 I’m currently working on Restaurant Management Website (MERN)!
+- 🌱 I’m currently learning NodeJs and REACT!
+- 🤔 I’m currently looking for Job!
 - 💬 Tell me How was your Day?
 - ✨ Creating bugs since 2020!
 - 🎯 Goals : Become Senior Developer BY 2026!
 - ⚡ Fun fact: I love to spent time with people!
 
 ## 🔧 Skills and Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
 - **Languages:** JavaScript, PHP,Python, 
 - **Frontend:** ReactJS, Tailwind CSS, Bootstrap, daisyUI, HTML5, CSS3
@@ -73,13 +96,13 @@ Simple Hotel Room Booking System!
 - Ecommerce : **[MuradnagarBazar](https://www.muradnagarbazar.com/)**  ,**[DreamyDressBD](https://www.dreamydressbd.com)**   -->
 
 
-
+<!-- 
 ## 🌱 Currently Learning
 I’m always learning and improving my skills! Currently, I’m focused on:
 
 - Advanced concepts in JavaScript and ReactJS
 - DevOps practices and Continuous Integration/Continuous Deployment (CI/CD)
-- Exploring cloud computing and serverless architectures
+- Exploring cloud computing and serverless architectures -->
 
 ## 📫 How to reach me:
 - Email: shahriarabiddut@gmail.com
@@ -87,28 +110,4 @@ I’m always learning and improving my skills! Currently, I’m focused on:
 - Portfolio: [shahriarahbiddut.web.app](https://shahriarahbiddut.web.app/)
 
 Feel free to explore my repositories and contribute to any of the projects. Thank you for visiting my profile!  
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
 
