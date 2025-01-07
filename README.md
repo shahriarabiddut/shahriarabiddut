@@ -5,7 +5,7 @@
 # Shahriar Ahmed
 ### Full Stack Web Developer
 ## 📫 About Me
-Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed, a passionate Full Stack Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
+Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Flag_of_Bangladesh.svg" alt="Bangladesh Flag" height="40" /> , a passionate Full Stack Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
 - 🔭 I’m currently working on Restaurant Management Website (MERN)!
 - 🌱 I’m currently learning NodeJs and REACT!
@@ -33,6 +33,9 @@ Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed, a passionate Full Stack W
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="WooCommerce" src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
 <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+
 </div>
 
 
