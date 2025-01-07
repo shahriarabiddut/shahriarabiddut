@@ -110,11 +110,9 @@ I’m always learning and improving my skills! Currently, I’m focused on:
 
 ## 📫 How to reach me:
 
-- <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> : [shahriarabiddut@gmail.com](mailto:shahriarabiddut@gmail.com)
-- <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-: [linkedin.com/in/shahriarahmedbiddut](https://www.linkedin.com/in/shahriarahmedbiddut/)
-- <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white" />
-: [shahriarahbiddut.web.app](https://shahriarahbiddut.web.app/)
+ [<img alt="Email" src="https://img.shields.io/badge/-shahriarabiddut%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:shahriarabiddut@gmail.com)
+ [<img alt="LinkedIn" src="https://img.shields.io/badge/%40shahriarahmedbiddut-Linkedin-blue" />](https://www.linkedin.com/in/shahriarahmedbiddut/)
+[<img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white" />](https://shahriarahbiddut.web.app/)
 
 Feel free to explore my repositories and contribute to any of the projects. Thank you for visiting my profile!  
 
