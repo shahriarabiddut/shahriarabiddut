@@ -1,9 +1,10 @@
 <div align="center">
-  <img height="200" src="https://shahriarahbiddut.web.app/cover.png"  />
+  <img height="300" src="https://shahriarahbiddut.web.app/cover.png"  />
 </div>
 
 # Shahriar Ahmed
 ### Full Stack Web Developer
+## 📫 About Me
 Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed, a passionate Full Stack Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
 - 🔭 I’m currently working on Restaurant Management Website (MERN)!
