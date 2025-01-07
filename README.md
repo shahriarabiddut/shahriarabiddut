@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://shahriarahbiddut.web.app/cover.png"  />
+  <img height="200" src="https://shahriarahbiddut.web.app/cover.png"  />
 </div>
 
 # Shahriar Ahmed
