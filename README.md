@@ -18,34 +18,21 @@ Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed, a passionate Full Stack W
 ## 🔧 Things I code with
 
 <div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img width="10" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img width="10" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img width="10" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img width="10" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img width="10" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img width="10" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img width="10" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-<img width="10" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img width="10" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img width="10" />
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-EA5028?style=flat-square&logo=laravel&logoColor=white" />
-<img width="10" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-<img width="10" />
 <img alt="WooCommerce" src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-<img width="10" />
 <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-
 </div>
 
 
