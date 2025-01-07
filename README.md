@@ -2,42 +2,19 @@
 
 Welcome to my GitHub profile! 👋 I'm Shahriar, a passionate Junior Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
-- 🔭 I’m currently working on self improvement.
-- 🌱 I’m currently learning how to survive.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ✨ Creating bugs since
+- 🔭 I’m currently working on self improvement!
+- 🌱 I’m currently learning how to survive!
+<!-- - 🤔 I’m looking for  -->
+- 💬 Tell me How was your day?
+- ✨ Creating bugs since 2020!
 - 🎯 Goals : Become Senior Developer BY 2026!
 - ⚡ Fun fact: I love to spent time with people!
 
 ## 🔧 Skills and Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
 
-- **Languages:** JavaScript, PHP,Python, HTML5, CSS3
-- **Frontend:** ReactJS, Tailwind CSS, Bootstrap, daisyUI
+- **Languages:** JavaScript, PHP,Python, 
+- **Frontend:** ReactJS, Tailwind CSS, Bootstrap, daisyUI, HTML5, CSS3
 - **Backend:** NodeJS, Express, Laravel
 - **Database:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
@@ -47,7 +24,6 @@ Welcome to my GitHub profile! 👋 I'm Shahriar, a passionate Junior Web Develop
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarabiddut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
 ## 🚀 Projects
 Here are some of the key projects I’ve worked on:
@@ -68,7 +44,8 @@ The Product Recommendation Platform is an interactive web application designed t
   Created using React and fake data.
 - Live Link : [https://progherodn.surge.sh](https://progherodn.surge.sh)
 
-### LARAVEL Projects
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="8" /> LARAVEL Projects
 
 - **[Hall Meal And Room Allocation System](https://github.com/shahriarabiddut/JUST-Hall-Management-System)**  
 The traditional manual processes in halls can be time-consuming, prone to errors and often result in poor coordination and management. The System is a solution that aims to streamline and automate various hall management processes, resulting in improved efficiency, reduced workload, and better overall experience for hall residents. It will aid in the management of student records, staff records, meal management and the generation of student report, among other things. Some Features : User Management,FoodTime Management,Order Management,Printing Tokens using POS Printer,Room Allocation System,Room Request Application ,Payment Management for Balances! 
@@ -103,19 +80,31 @@ I’m always learning and improving my skills! Currently, I’m focused on:
 ## 📫 How to reach me:
 - Email: shahriarabiddut@gmail.com
 - LinkedIn: [linkedin.com/in/shahriar-ahmed](https://www.linkedin.com/in/shahriarahmedbiddut/)
-- Portfolio: [Portfolio](https://shahriarahbiddut.web.app/)
+- Portfolio: [shahriarahbiddut.web.app](https://shahriarahbiddut.web.app/)
 
 Feel free to explore my repositories and contribute to any of the projects. Thank you for visiting my profile!  
 
-<!--
-**shahriarabiddut/shahriarabiddut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
