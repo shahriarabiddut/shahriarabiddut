@@ -1,6 +1,10 @@
-# Shahriar Ahmed
+<div align="center">
+  <img height="200" src="https://shahriarahbiddut.web.app/cover.png"  />
+</div>
 
-Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed, a passionate Junior Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
+# Shahriar Ahmed
+### Full Stack Web Developer
+Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed, a passionate Full Stack Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
 - 🔭 I’m currently working on Restaurant Management Website (MERN)!
 - 🌱 I’m currently learning NodeJs and REACT!
@@ -17,7 +21,7 @@ Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed, a passionate Junior Web D
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
