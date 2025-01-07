@@ -2,16 +2,15 @@
 
 Welcome to my GitHub profile! 👋 I'm Shahriar, a passionate Junior Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
-- 🔭 I’m currently working on self improvement!
-- 🌱 I’m currently learning how to survive!
-<!-- - 🤔 I’m looking for  -->
-- 💬 Tell me How was your day?
+- 🔭 I’m currently working on Self Improvement!
+- 🌱 I’m currently learning How to Survive!
+- 🤔 I’m looking for Job
+- 💬 Tell me How was your Day?
 - ✨ Creating bugs since 2020!
 - 🎯 Goals : Become Senior Developer BY 2026!
 - ⚡ Fun fact: I love to spent time with people!
 
 ## 🔧 Skills and Technologies
-
 
 - **Languages:** JavaScript, PHP,Python, 
 - **Frontend:** ReactJS, Tailwind CSS, Bootstrap, daisyUI, HTML5, CSS3
@@ -27,7 +26,7 @@ Welcome to my GitHub profile! 👋 I'm Shahriar, a passionate Junior Web Develop
 
 ## 🚀 Projects
 Here are some of the key projects I’ve worked on:
-### ReactJs And MERN Projects
+### 📚 ReactJs And MERN Projects
 - **[React Consultancy](https://github.com/shahriarabiddut/React-Consultancy)**  
   Career Counseling Website designed to guide users on their career paths. The goal is to create a seamless, intuitive platform that offers personalized career advice, guidance, and resources to users seeking to make informed decisions about their professional futures.
 - Live Link : [https://progheroa9.surge.sh](https://progheroa9.surge.sh)
@@ -44,8 +43,7 @@ The Product Recommendation Platform is an interactive web application designed t
   Created using React and fake data.
 - Live Link : [https://progherodn.surge.sh](https://progherodn.surge.sh)
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="8" /> LARAVEL Projects
+### 📚  LARAVEL Projects
 
 - **[Hall Meal And Room Allocation System](https://github.com/shahriarabiddut/JUST-Hall-Management-System)**  
 The traditional manual processes in halls can be time-consuming, prone to errors and often result in poor coordination and management. The System is a solution that aims to streamline and automate various hall management processes, resulting in improved efficiency, reduced workload, and better overall experience for hall residents. It will aid in the management of student records, staff records, meal management and the generation of student report, among other things. Some Features : User Management,FoodTime Management,Order Management,Printing Tokens using POS Printer,Room Allocation System,Room Request Application ,Payment Management for Balances! 
@@ -69,6 +67,12 @@ Question Bank And Online Exam System . Staffs can add question and answers , cre
 
 - **[Hotel Room Booking System](https://github.com/shahriarabiddut/Hotel-Booking)**  
 Simple Hotel Room Booking System!
+
+<!-- ### 📚  WORDPRESS 
+
+- Ecommerce : **[MuradnagarBazar](https://www.muradnagarbazar.com/)**  ,**[DreamyDressBD](https://www.dreamydressbd.com)**   -->
+
+
 
 ## 🌱 Currently Learning
 I’m always learning and improving my skills! Currently, I’m focused on:
