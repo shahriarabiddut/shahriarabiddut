@@ -11,12 +11,7 @@ Welcome to my GitHub profile! 👋 I'm Shahriar, a passionate Junior Web Develop
 - ⚡ Fun fact: I love to spent time with people!
 
 ## 🔧 Skills and Technologies
-- **Languages:** JavaScript, PHP,Python, HTML5, CSS3
-- **Frontend:** ReactJS, Tailwind CSS, Bootstrap, daisyUI
-- **Backend:** NodeJS, Express, Laravel
-- **Database:** MongoDB, MySQL
-- **Version Control:** Git, GitHub
-- **Tools & Platforms:** Vite
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -41,7 +36,12 @@ Welcome to my GitHub profile! 👋 I'm Shahriar, a passionate Junior Web Develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-###
+- **Languages:** JavaScript, PHP,Python, HTML5, CSS3
+- **Frontend:** ReactJS, Tailwind CSS, Bootstrap, daisyUI
+- **Backend:** NodeJS, Express, Laravel
+- **Database:** MongoDB, MySQL
+- **Version Control:** Git, GitHub
+- **Tools & Platforms:** Vite
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarabiddut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
