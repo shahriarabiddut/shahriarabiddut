@@ -1,7 +1,6 @@
 <div align="center">
   <img height="300" src="https://shahriarahbiddut.web.app/coverNoPic.png"  />
 </div>
-![User Cover](/public/coverNoPic.png)
 
 # Shahriar Ahmed
 ### Full Stack Web Developer
