@@ -7,8 +7,8 @@
 ## 📫 About Me
 Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="20"/> , a passionate Full Stack Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.  
 
-- 🔭 I’m currently working on Restaurant Management Website (MERN)!
-- 🌱 I’m currently learning NodeJs and REACT!
+- 🔭 I’m currently learning NEXT Js!
+- 🌱 I’m building web applications with NodeJs and REACT!
 - 🤔 I’m currently looking for Job!
 - 💬 Tell me How was your Day?
 - ✨ Creating bugs since 2020!
@@ -26,6 +26,7 @@ Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh  <img src=
 <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-2d2d2d?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -54,10 +55,12 @@ Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh  <img src=
 ## 🚀 Projects
 Here are some of the key projects I’ve worked on:
 ### 📚 ReactJs And MERN Projects
-- **[React Consultancy](https://github.com/shahriarabiddut/React-Consultancy)**  
-  Career Counseling Website designed to guide users on their career paths. The goal is to create a seamless, intuitive platform that offers personalized career advice, guidance, and resources to users seeking to make informed decisions about their professional futures.
-- Live Link : [https://progheroa9.surge.sh](https://progheroa9.surge.sh)
-  
+
+- **Real State Buy-Sell Platform**  
+The Product Recommendation Platform is an interactive web application designed to assist users in discovering the best products based on community-driven queries and recommendations. This platform fosters collaborative decision-making by allowing users to post queries, view alternative suggestions, and contribute recommendations or comments.
+- Live Link : [https://progheroa11.web.app](https://progheroa11.web.app)
+- Repositories : [Client Repo](https://github.com/shahriarabiddut/Real-State-Buy-Sell-Platform-Client) | [Server Repo](https://github.com/shahriarabiddut/Real-State-Buy-Sell-Platform-Server)
+   
 - **[Query And Recommendation MERN](https://github.com/shahriarabiddut/Query-And-Recommendation-MERN)**  
 The Product Recommendation Platform is an interactive web application designed to assist users in discovering the best products based on community-driven queries and recommendations. This platform fosters collaborative decision-making by allowing users to post queries, view alternative suggestions, and contribute recommendations or comments.
 - Live Link : [https://progheroa11.web.app](https://progheroa11.web.app)
@@ -66,6 +69,14 @@ The Product Recommendation Platform is an interactive web application designed t
   Our goal is to create a seamless and responsive product listing website where customers can easily browse, list, and review a wide range of sports accessories. From gear to apparel, we aim to offer products for various sports disciplines, catering to athletes of all levels.
 - Live Link : [https://progheroa10.web.app](https://progheroa10.web.app)
   
+- **[Restaurant Management System](https://github.com/shahriarabiddut/Restaurant-Management-System-MERN)**  
+Restaurant Management System is a comprehensive restaurant management website built using the MERN stack (MongoDB, Express.js, React with Vite, and Node.js). This application aims to streamline restaurant operations, providing an intuitive interface for managing reservations, orders, menus, and staff.
+- Live Link : [https://progherorestaurant.web.app](https://progherorestaurant.web.app)
+
+- **[React Consultancy](https://github.com/shahriarabiddut/React-Consultancy)**  
+  Career Counseling Website designed to guide users on their career paths. The goal is to create a seamless, intuitive platform that offers personalized career advice, guidance, and resources to users seeking to make informed decisions about their professional futures.
+- Live Link : [https://progheroa9.surge.sh](https://progheroa9.surge.sh)
+
 - **[NewsPaper Design](https://github.com/shahriarabiddut/React-Dragon-News)**  
   Created using React and fake data.
 - Live Link : [https://progherodn.surge.sh](https://progherodn.surge.sh)

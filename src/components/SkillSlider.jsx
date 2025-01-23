@@ -11,9 +11,21 @@ import mongodb from "../assets/skills/mongodb.webp";
 import mysql from "../assets/skills/mysql.svg";
 import html from "../assets/skills/html.png";
 import css from "../assets/skills/css.webp";
+import next from "../assets/skills/next.png";
 
 const SkillsSlider = () => {
-  const skills = [html, css, js, react, nodejs, mongodb, mysql, php, laravel];
+  const skills = [
+    html,
+    css,
+    js,
+    react,
+    nodejs,
+    next,
+    mongodb,
+    mysql,
+    php,
+    laravel,
+  ];
 
   return (
     <div className="w-full p-6">
