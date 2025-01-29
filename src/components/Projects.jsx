@@ -11,7 +11,7 @@ const Projects = () => {
         <p className="text-xl text-gray-500">What I Did ?</p>
         <h6 className="text-4xl font-bold mb-6 text-primary">Projects</h6>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 my-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 my-12">
           {projects.map((project, index) => (
             <div key={index} className="card bg-base-100 shadow-xl">
               <figure className="py-3 relative">

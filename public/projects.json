@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "React Consultancy",
+    "name": "React Consultancy (Frontend)",
     "description": "Career Counseling Website designed to guide users on their career paths. Offers personalized career advice, guidance, and resources.",
     "briefDetails": "Career Counseling Website designed to guide users on their career paths. The goal is to create a seamless, intuitive platform that offers personalized career advice, guidance, and resources to users seeking to make informed decisions about their professional futures.",
     "features": [
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "name": "Query And Recommendation MERN",
+    "name": "Query And Recommendation",
     "description": "Interactive web app assisting users in discovering the best products through community-driven queries and recommendations.",
     "briefDetails": "The purpose of this platform is to create a user-driven environment where people can share their queries regarding specific products, receive recommendations from other users, and collaborate and engage in discussions to make informed purchasing decisions.",
     "features": [
@@ -38,7 +38,7 @@
   },
   {
     "id": 3,
-    "name": "Equipment Store (Product Listing) MERN",
+    "name": "Equipment Store (Product Listing)",
     "description": "Seamless and responsive product listing website offering sports accessories. Customers can browse, list, and review products.",
     "briefDetails": "Welcome to the EquiSports (A Sports Equipment Store) Project! Our goal is to create a seamless and responsive e-commerce website where customers can easily browse, purchase, and review a wide range of sports accessories. From gear to apparel, we aim to offer products for various sports disciplines, catering to athletes of all levels.",
     "features": [
@@ -53,6 +53,28 @@
     "github": "https://github.com/shahriarabiddut/demoShop-React-and-NodeJs",
     "live": "https://progheroa10.web.app",
     "image": "/projects/equisports.png",
+    "tags": ["MongoDB", "Express", "React", "NodeJS"]
+  },
+ {
+  "id": 4,
+  "name": "PHRealState - Real Estate Platform",
+  "description": "An online marketplace connecting buyers and sellers of real estate properties with a seamless and user-friendly experience.",
+  "briefDetails": "Welcome to PHRealState - Real Estate Platform! This project is designed to provide an efficient platform for buyers and sellers to connect. Users can browse properties, manage their listings, purchase real estate, and even review their experiences. Agents and admins have specialized features to manage and monitor the platform, ensuring an optimized experience for all.",
+  "features": [
+    "Responsive Design",
+    "Secure Authentication with Role-Based Access Control",
+    "Advanced Property Search Filters",
+    "Property Wishlist",
+    "Property Purchase with Secure Payment",
+    "Reviews and Ratings for Properties",
+    "Personal User Dashboard",
+    "Agent Features: Add Listings, Track Properties, Performance Insights",
+    "Admin Features: User Management, Property Management, Review Moderation, Platform Analytics"
+  ],
+    "technologies": ["HTML", "CSS", "JavaScript", "React", "React Router", "Firebase", "Tailwind CSS", "DaisyUI","NodeJs"],
+    "github": "https://github.com/shahriarabiddut/Real-State-Buy-Sell-Platform-Server",
+    "live": "https://phrealstate.web.app/",
+    "image": "/projects/realstate.png",
     "tags": ["MongoDB", "Express", "React", "NodeJS"]
   }
 ]
