@@ -49,8 +49,9 @@ Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh <img src="
 - **Version Control:** Git, GitHub
 - **Tools & Platforms:** Vite -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarabiddut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarabiddut&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarabiddut&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
 ## 🚀 Projects
