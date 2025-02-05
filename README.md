@@ -51,9 +51,16 @@ Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh <img src="
 
 ## 📊 Stats
 
-<div style="display: flex; justify-content: center;gap:2%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriarabiddut&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" style="width: 53%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarabiddut&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" style="width: 40%;"/>
+<!-- <div style="display: flex; justify-content: center; gap: 2%; flex-wrap: wrap; max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarabiddut&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" style="width: 36%; min-width: 250px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarabiddut&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" style="width: 28%; min-width: 200px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahriarabiddut&theme=vue-dark" style="width: 28%; min-width: 200px;"/>
+
+</div> -->
+<div style="display: flex; justify-content: center; gap: 1%;flex-wrap: wrap; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarabiddut&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 34%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarabiddut&theme=vue-dark&hide_border=true" style="width: 36%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarabiddut&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 26%;" />
 </div>
 
 ## 🚀 Projects
@@ -84,6 +91,10 @@ Here are some of the key projects I’ve worked on:
 - **[NewsPaper Design](https://github.com/shahriarabiddut/React-Dragon-News)**  
   Created using React and fake data.
 - Live Link : [https://progherodn.surge.sh](https://progherodn.surge.sh)
+  <!-- Card Style APi -->
+  <!-- <a href="https://github.com/shahriarabiddut/Real-State-Buy-Sell-Platform-Client" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarabiddut&repo=Real-State-Buy-Sell-Platform-Client" alt="Real State Buy-Sell Platform Client Repo Card" />
+      </a> -->
 
 ### 📚 LARAVEL Projects
 
@@ -127,5 +138,7 @@ I’m always learning and improving my skills! Currently, I’m focused on:
 [<img alt="Email" src="https://img.shields.io/badge/-shahriarabiddut%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:shahriarabiddut@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/%40shahriarahmedbiddut-Linkedin-blue" />](https://www.linkedin.com/in/shahriarahmedbiddut/)
 [<img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white" />](https://shahriarahbiddut.web.app/)
+[![WhatsApp](https://img.shields.io/badge/-01945506778-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801945506778)
+[<img alt="Call Me" src="https://img.shields.io/badge/Call_Me-+8801945506778-3ca0bc?style=flat-square&logo=phone&logoColor=white" />](tel:+8801945506778)
 
 Feel free to explore my repositories and contribute to any of the projects. Thank you for visiting my profile!
