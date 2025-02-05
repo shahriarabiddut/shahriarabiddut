@@ -71,7 +71,7 @@ Here are some of the key projects I’ve worked on:
 
 - **Real State Buy-Sell Platform**  
   The PHRealState - Real Estate Platform is an online marketplace built using the MERN stack, designed to connect buyers and sellers of real estate properties. It provides a seamless and user-friendly experience for property browsing, listing, buy - sell, review, wishlist and management.
-- Live Link : [https://progheroa11.web.app](https://progheroa11.web.app)
+- Live Link : [https://phrealstate.web.app/](https://phrealstate.web.app/)
 - Repositories : [Client Repo](https://github.com/shahriarabiddut/Real-State-Buy-Sell-Platform-Client) | [Server Repo](https://github.com/shahriarabiddut/Real-State-Buy-Sell-Platform-Server)
 - **[Query And Recommendation MERN](https://github.com/shahriarabiddut/Query-And-Recommendation-MERN)**  
   The Product Recommendation Platform is an interactive web application designed to assist users in discovering the best products based on community-driven queries and recommendations. This platform fosters collaborative decision-making by allowing users to post queries, view alternative suggestions, and contribute recommendations or comments.
