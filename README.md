@@ -8,15 +8,16 @@
 
 ## 📫 About Me
 
-Welcome to my GitHub profile! 👋 I'm Shahriar Ahmed from Bangladesh <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="20"/> , a passionate Full Stack Web Developer with a strong background in building full-stack web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express, ReactJS, NodeJS), and have intermediate experience with Laravel and PHP.
+Welcome to my GitHub profile! Peace be upon you👋! I'm Shahriar Ahmed Biddut from Bangladesh <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png" width="20"/> , a passionate Full Stack Web Developer with a strong background in building modern, scalable, and user-focused web applications. I specialize in JavaScript, the MERN stack (MongoDB, Express.js, React.js, and Node.js), and Next.js. I also have intermediate experience with PHP and Laravel, along with hands-on expertise in WordPress development, including building custom plugins and themes. Additionally, I specialize in identifying and fixing bugs, optimizing existing applications, and improving overall performance and functionality.
 
-- 🔭 I’m currently learning NEXT Js!
-- 🌱 I’m building web applications with NodeJs and REACT!
-- 🤔 I’m currently looking for Job!
-- 💬 Tell me How was your Day?
-- ✨ Creating bugs since 2020!
-- 🎯 Goals : Become Senior Developer BY 2026!
-- ⚡ Fun fact: I love to spent time with people!
+
+-  🔭 I’m currently learning DevOps!
+-  🌱 I’m building web applications with Next.js, Node.js, and React!
+-  🤔 Currently solving problems and improving my problem solving skills!
+-  💬 Tell me, What’s keeping you curious lately??
+-  ✨ Creating bugs since 2020!
+-  🎯 Goal: Build something impactful !
+-  ⚡ Fun fact: I love listening to people!
 
 ## 🔧 Things I code with
 
